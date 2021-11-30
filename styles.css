@@ -34,3 +34,20 @@ div {
     text-align: center;
 }
 
+.lime {
+    background-color: lime;
+}
+
+.green {
+    background-color: green;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.gray {
+    background-color: gray;
+}
+
