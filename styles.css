@@ -51,3 +51,30 @@ div {
     background-color: gray;
 }
 
+.green-screen {
+    font-family: "Green Screen";
+}
+
+.withheld-data {
+    font-family: "Withheld Data";
+}
+
+.ocr-a {
+    font-family: "OCR-A 2";
+}
+
+#h1 {
+    font-family: "Green Screen";
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#h2 {
+    font-family: "Withheld Data";
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#p {
+    font-family: "OCR-A 2";
+}
